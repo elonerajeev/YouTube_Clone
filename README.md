@@ -1,8 +1,5 @@
 # YouTube_Clone
 I Just Create A Clone Of YouTube
-
-# YouTube_Clone
-I Just Create A Clone Of YouTube
  ```
 # YouTube Clone
 
