@@ -1,4 +1,72 @@
 # YouTube_Clone
+
+# YouTube Clone by @Elonerajeev.ai
+
+![YouTube Logo](youtube.jpg)
+
+## Navigation
+- [Home](http://127.0.0.1:5500/src/index.html#)
+- Search
+- Microphone
+
+## Trending Keywords
+- [All](#)
+- [Music](#)
+- [AI](#)
+- [Programming](#)
+- [Games](#)
+- [Trending](#)
+- [News](#)
+- [Politics](#)
+- [India](#)
+- [Social](#)
+- [Marketing](#)
+
+## Video Content
+- App-How to make a Great Project for Internships
+  - 1,234,567 views
+  - 10:30
+- Resurent.html - HTML programming - Visual Studio Code
+  - 987,654 views
+  - 8:45
+- SaveTube.App-20220706 twilight
+  - 3,456,789 views
+  - 15:20
+- SaveTube.App-C in 100 Seconds
+  - 4,567,890 views
+  - 12:15
+- App-I solved 541 Leetcode problems. But you need only 150.-(480p)
+  - 3,456,789 views
+  - 15:20
+- App-Java in 100 Seconds
+  - 3,456,789 views
+  - 15:20
+- SaveTube.App-Python in 100 Seconds
+  - 3,456,789 views
+  - 15:20
+- SaveTube.App-status of sky with moving cloud
+  - 3,456,789 views
+  - 15:20
+- Resurent.html - HTML programming - Visual Studio Code 2023-08-16 18-06-09
+  - 3,456,789 views
+  - 15:20
+- SaveTube.App-I solved 541 Leetcode problems. But you need only 150.-(480p)
+  - 3,456,789 views
+  - 15:20
+
+## Embedded Videos
+- [YouTube Video 1](https://www.youtube-nocookie.com/embed/3667kYygPy8?si=l_10S1XIhqGHP7KR)
+- [YouTube Video 2](https://www.youtube-nocookie.com/embed/9KCtZ9r4OAw?si=QIUSU52zDCu02x2v)
+- [YouTube Video 3](https://www.youtube-nocookie.com/embed/Crl5g36MapE?si=Q06pIEFECCKNeXk6)
+- [YouTube Video 4](https://www.youtube-nocookie.com/embed/3667kYygPy8?si=l_10S1XIhqGHP7KR)
+- [YouTube Video 5](https://www.youtube-nocookie.com/embed/OdEQokvCXMc?si=4tOxocgg9OFnUYzZ)
+- [YouTube Video 6](https://www.youtube-nocookie.com/embed/klX1lKyEO9U?si=ifMYUXA2rSZdqhTt)
+- [YouTube Video 7](https://www.youtube-nocookie.com/embed/TmpTku0qDcs?si=vMsGVyGTSSthrSur)
+- [YouTube Video 8](https://www.youtube-nocookie.com/embed/klX1lKyEO9U?si=ifMYUXA2rSZdqhTt)
+
+
+
+
 I Just Create A Clone Of YouTube
  ```
 # YouTube Clone
